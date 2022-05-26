@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - git add p
+- push
+- pull
 - 
 
 <!---
